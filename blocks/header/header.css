@@ -1,8 +1,7 @@
 .header {
   position: relative;
   box-sizing: border-box;
-  height: 412px;
-  width: 320px;
+  width: 100%;
   padding: 30px 16px;
   display: flex;
   flex-direction: column;
