@@ -1,0 +1,12 @@
+.header__button {
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0);
+  border: 1px solid white;
+  border-radius: 5px;
+  text-transform: uppercase;
+  height: 44px;
+  width: 288px;
+  color: white;
+  font-size: 14px;
+  font-weight: 600;
+}
