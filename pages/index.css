@@ -1,10 +1,9 @@
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__text-container/header__text-container.css);
 @import url(../blocks/header/__title/header__title.css);
-@import url(../blocks/header/__caption/header__caption.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__button/header__button.css);
 
-@import url(../blocks/navbar/navbar.css);
-@import url(../blocks/navbar/__menu-btn/navbar__menu-btn.css);
-@import url(../blocks/navbar/__logo/navbar__logo.css);
+
