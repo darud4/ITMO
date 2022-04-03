@@ -1,5 +1,8 @@
 .intro {
     width: 100%;
-    background-color: rgba(0, 19, 55, 1);
+    background-color: #001337;
     color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
