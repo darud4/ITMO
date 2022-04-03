@@ -1,3 +1,6 @@
 .intro-card__title {
-    
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19px;
+  color: rgba(0, 19, 55, 1);
 }
