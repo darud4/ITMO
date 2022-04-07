@@ -14,11 +14,12 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__cards/intro__cards.css);
-@import url(../blocks/intro/__pagination/intro__pagination.css);
-@import url(../blocks/intro/__pagination-item/intro__pagination-item.css);
 
 @import url(../blocks/intro-card/intro-card.css);
 @import url(../blocks/intro-card/__date/intro-card__date.css);
 @import url(../blocks/intro-card/__title/intro-card__title.css);
 @import url(../blocks/intro-card/__text/intro-card__text.css);
 @import url(../blocks/intro-card/__pin/intro-card__pin.css);
+
+@import url(../blocks/pagination/pagination.css);
+@import url(../blocks/pagination/__item/pagination__item.css);
