@@ -1,0 +1,10 @@
+.publications-card__share {
+  background-image: url(../../../images/icon-share.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(0, 0, 0, 0);
+  width: 21px;
+  height: 21px;
+  border: 0;
+}

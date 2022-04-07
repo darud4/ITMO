@@ -23,3 +23,16 @@
 
 @import url(../blocks/pagination/pagination.css);
 @import url(../blocks/pagination/__item/pagination__item.css);
+
+@import url(../blocks/publications/publications.css);
+@import url(../blocks/publications/__cards/publication__cards.css);
+@import url(../blocks/publications/__title/publications__title.css);
+
+@import url(../blocks/publications-card/publications-card.css);
+@import url(../blocks/publications-card/__footer-text/publications-card__footer-text.css);
+@import url(../blocks/publications-card/__footer/publications-card__footer.css);
+@import url(../blocks/publications-card/__image/publications-card__image.css);
+@import url(../blocks/publications-card/__share/publications-card__share.css);
+@import url(../blocks/publications-card/__subtitle/publications-card__subtitle.css);
+@import url(../blocks/publications-card/__text/publications-card__text.css);
+@import url(../blocks/publications-card/__title/publications-card__title.css);
