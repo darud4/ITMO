@@ -1,0 +1,11 @@
+.projects__item-details {
+    font-family: 'OpenSans', sans-serif;
+    font-style: normal;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    font-size: 10px;
+    line-height: 13px;
+    letter-spacing: 0.06px;
+    font-weight: 600;
+    color: #FFFFFF;
+}

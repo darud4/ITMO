@@ -1,0 +1,11 @@
+.projects__item {
+    max-width: 140px;
+    min-height: 220px;
+    background-color: #009FAC;
+    color: white;
+    border-radius: 10px;
+    background-image: url('../../../images/Factory.png');
+    background-repeat: no-repeat;
+    background-size: inherit;
+    background-position: bottom;
+}

@@ -1,0 +1,8 @@
+.projects__menu-item {
+    width: 288px;
+    min-height: 47.5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 5px solid transparent;
+}
