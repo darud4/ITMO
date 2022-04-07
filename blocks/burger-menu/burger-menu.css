@@ -1,0 +1,8 @@
+.burger-menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: #000D26;
+    max-width: 320px;
+}
