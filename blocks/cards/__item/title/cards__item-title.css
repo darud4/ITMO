@@ -1,0 +1,11 @@
+.cards__item-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 19px;
+  color: #001337;
+  border-bottom: 1px solid #009fac;
+  padding: 0 0 12px;
+  margin: 12px 0 0;
+  max-width: 248px;
+}

@@ -1,0 +1,6 @@
+.cards__item_pin {
+  background-image: url(../../../../../images/intro__cards_item-pin.svg);
+  width: 24px;
+  height: 31px;
+  stroke-width: 10px;
+}

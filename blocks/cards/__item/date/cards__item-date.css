@@ -1,0 +1,9 @@
+.cards__item-date {
+  font-style: italic;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 145%;
+  color: #009fac;
+  margin: 0;
+  padding: 0;
+}

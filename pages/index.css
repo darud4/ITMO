@@ -8,3 +8,12 @@
 @import url(../blocks/header/__title/header__title.css);
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__button/header__button.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/intro/__title/intro__title.css);
+@import url(../blocks/intro/__subtitle/intro__subtitle.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__item/pin/cards__item-pin.css);
+@import url(../blocks/cards/__item/date/cards__item-date.css);
+@import url(../blocks/cards/__item/text/cards__item-text.css);
+@import url(../blocks/cards/__item/title/cards__item-title.css);

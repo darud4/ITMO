@@ -1,0 +1,8 @@
+.cards__item {
+  height: 250px;
+  width: 288px;
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 0 16px;
+  margin: 0 16px 40px;
+}
