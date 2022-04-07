@@ -1,7 +1,9 @@
 .intro-card {
   background-color: rgba(224, 240, 255, 1);
-  height: 250;
+  height: 250px;
   width: 276px;
   border-radius: 5px;
   padding: 16px;
+  box-sizing: border-box;
+  position: relative;
 }
