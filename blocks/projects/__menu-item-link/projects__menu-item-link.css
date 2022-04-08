@@ -1,0 +1,11 @@
+.projects__menu-item-link {
+    font-family: 'OpenSans', sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16px;
+    text-decoration: none;
+    color: white;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+}

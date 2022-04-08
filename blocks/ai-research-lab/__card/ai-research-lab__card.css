@@ -1,0 +1,28 @@
+.ai-research-lab__card {
+    max-width: 120px;
+    margin-right: 30px;
+    padding: 10px;
+    box-sizing: content-box;
+    border-radius: 10px;
+    background-color: #FFF;
+    background-size: cover;
+    margin: 0;
+}
+
+.ai-research-lab__card:hover h3 {
+    color: #FFF;
+}
+
+.ai-research-lab__card:hover p {
+    color: #FFF;
+}
+
+.ai-research-lab__card:hover button {
+    color: #009FAC;
+    border-color: #FFF;
+    background: #FFFFFF;
+}
+
+.ai-research-lab__card:hover {
+    background-color: #009FAC;
+}

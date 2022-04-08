@@ -1,9 +1,9 @@
-.intro {
+.projects {
+    padding-top: 40px;
     background-color: #001337;
-    width: 100%;
     color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-bottom: 40px;
+    box-sizing: border-box;
 }

@@ -1,0 +1,9 @@
+.ai-research-lab__img {
+    content: "";
+    width: 288px;
+    height: 180px;
+    background-image: url(../../../images/image2.png);
+    background-size: cover;
+    border-radius: 5px;
+    margin: 0 auto;
+}

@@ -1,0 +1,9 @@
+.ai-research-lab__cards-container {
+    margin: 0 auto;
+    max-width: 288px;
+    display: grid;
+    grid-template-columns: 140px 140px;
+    grid-template-rows: 1fr 1fr;
+    gap: 8px;
+    margin-top: 20px;
+}

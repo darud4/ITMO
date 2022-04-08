@@ -1,0 +1,11 @@
+.projects__menu-button {
+    height: 6px;
+    width: 12px;
+    background-image: url(../../../images/menu-down.svg);
+    background-repeat: no-repeat;
+    background-color: transparent;
+    background-position: center;
+    border: none;
+    cursor: pointer;
+
+}
