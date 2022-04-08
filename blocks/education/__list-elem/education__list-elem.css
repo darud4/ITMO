@@ -1,0 +1,13 @@
+.education__list-elem:before {
+    content: "\2022";
+    padding-right: 10px;
+}
+
+.education__list-elem {
+    font-family: 'OpenSans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.1px;
+}

@@ -1,0 +1,11 @@
+.education__flex-container {
+    width: 288px;
+    margin-bottom: 16px;
+    padding: 16px 16px 20px;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    background-color: #FFF;
+    border-radius: 10px;
+    flex-direction: column;
+}

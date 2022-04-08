@@ -81,3 +81,20 @@
 @import url(../blocks/projects/__pagination-link/projects__pagination-link.css);
 @import url(../blocks/projects/__pagination-last-page/projects__pagination-last-page.css);
 @import url(../blocks/projects/__pagination-right-arrow/projects__pagination-right-arrow.css);
+
+@import url(../blocks/education/education.css);
+@import url(../blocks/education/__title/education__title.css);
+@import url(../blocks/education/__title/_color/education__title_color_white.css);
+@import url(../blocks/education/__main-text/education__main-text.css);
+@import url(../blocks/education/__wrapper/education__wrapper.css);
+@import url(../blocks/education/__flex-container/education__flex-container.css);
+@import url(../blocks/education/__img-container/education__img-container.css);
+@import url(../blocks/education/__img/education__img.css);
+@import url(../blocks/education/__about-subtitle/education__about-subtitle.css);
+@import url(../blocks/education/__list/education__list.css);
+@import url(../blocks/education/__list-elem/education__list-elem.css);
+@import url(../blocks/education/__link/education__link.css);
+@import url(../blocks/education/__arrow/education__arrow.css);
+@import url(../blocks/education/__buttons-container/education__buttons-container.css);
+@import url(../blocks/education/__button-info/education__button-info.css);
+@import url(../blocks/education/__button-info/_active/education__button-info_active.css);

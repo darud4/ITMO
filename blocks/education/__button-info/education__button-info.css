@@ -1,0 +1,12 @@
+.education__button-info {
+    font-size: 12px;
+    line-height: 1.33;
+    margin: 0;
+    width: 50%;
+    text-transform: uppercase;
+    color: #FFF;
+    text-align: center;
+    font-family: 'OpenSans', sans-serif;
+    letter-spacing: 0.1px;
+    font-weight: 600;
+}

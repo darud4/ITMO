@@ -1,0 +1,10 @@
+.education__main-text {
+    font-family: 'OpenSans', sans-serif;
+    letter-spacing: 0.1px;
+    color: white;
+    font-size: 12px;
+    line-height: 1.33;
+    margin: 0 auto;
+    max-width: 288px;
+    margin-bottom: 20px;
+}

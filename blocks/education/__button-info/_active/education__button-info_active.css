@@ -1,0 +1,10 @@
+.education__button-info_active {
+    width: 60%;
+    height: 103%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E0F0FF;
+    border-radius: 5px;
+    color: #000D26;
+}
