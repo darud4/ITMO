@@ -1,4 +1,4 @@
-.cards__item {
+.newscards__item {
   min-width: 270px;
   background-color: #fff;
   border-radius: 5px;
@@ -12,10 +12,10 @@
     "title title"
     "text text";
 }
-.cards__item:first-child {
+.newscards__item:first-child {
   margin-left: 16px;
 }
 
-.cards__item:last-child {
+.newscards__item:last-child {
   margin-right: 16px;
 }
