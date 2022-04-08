@@ -1,8 +1,21 @@
 .cards__item {
-  height: 250px;
-  width: 288px;
+  min-width: 270px;
   background-color: #fff;
   border-radius: 5px;
-  padding: 0 16px;
-  margin: 0 16px 40px;
+  padding: 0 0 10px 16px;
+  margin-top: 12px;
+  margin-left: 5px;
+  margin-right: 5px;
+  display: grid;
+  grid-template-areas:
+    "date pin"
+    "title title"
+    "text text";
+}
+.cards__item:first-child {
+  margin-left: 16px;
+}
+
+.cards__item:last-child {
+  margin-right: 16px;
 }

@@ -1,6 +1,9 @@
-.cards__item_pin {
-  background-image: url(../../../../../images/intro__cards_item-pin.svg);
+.cards__item-pin {
+  background-image: url(../../../..//images/cards_item-pin.svg);
   width: 24px;
   height: 31px;
-  stroke-width: 10px;
+  grid-area: pin;
+  margin-top: -10px;
+  margin-right: -6px;
+  justify-self: end;
 }
