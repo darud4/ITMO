@@ -1,0 +1,10 @@
+.burger-menu__button {
+    background-image: url(../../../images/Burgermenu.svg);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    width: 24px;
+    height: 24px;
+    margin: 10px 85px 10px 10px;
+    border: 0;
+    padding: 0;
+}

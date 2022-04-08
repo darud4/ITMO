@@ -3,6 +3,10 @@
 
 @import url(../blocks/page/page.css);
 
+@import url(../blocks/burger-menu/burger-menu.css);
+@import url(../blocks/burger-menu/__button/burger-menu__button.css);
+@import url(../blocks/burger-menu/__logo/burger-menu__logo.css);
+
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__text-container/header__text-container.css);
 @import url(../blocks/header/__title/header__title.css);
