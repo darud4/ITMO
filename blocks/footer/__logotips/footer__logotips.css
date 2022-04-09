@@ -1,0 +1,5 @@
+.footer__logotips {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

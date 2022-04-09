@@ -1,0 +1,15 @@
+.footer__copyright {
+    max-width: 140px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    font-size: 12px;
+    line-height: 16px;
+    height: 30px;
+    font-family: 'OpenSans', sans-serif;
+    letter-spacing: 0.1px;
+    color: white;
+}

@@ -1,0 +1,7 @@
+.footer__navigation {
+    margin-top: 40px;
+    width: 286px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

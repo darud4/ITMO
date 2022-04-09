@@ -1,0 +1,13 @@
+.footer__city {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    font-family: 'OpenSans', sans-serif;
+    letter-spacing: 0.1px;
+}

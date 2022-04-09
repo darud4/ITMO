@@ -1,0 +1,18 @@
+.footer__email {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 26px;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.1px;
+    text-align: left;
+    font-family: 'OpenSans', sans-serif;
+}
+
+.footer__email:hover {
+    opacity: 0.6;
+}

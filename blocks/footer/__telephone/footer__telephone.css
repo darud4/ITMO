@@ -1,0 +1,18 @@
+.footer__telephone {
+    margin-bottom: 8px;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    text-align: left;
+    font-family: 'OpenSans', sans-serif;
+}
+
+.footer__telephone:hover {
+    opacity: 0.6;
+}
