@@ -98,3 +98,11 @@
 @import url(../blocks/education/__buttons-container/education__buttons-container.css);
 @import url(../blocks/education/__button-info/education__button-info.css);
 @import url(../blocks/education/__button-info/_active/education__button-info_active.css);
+
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__title/partners__title.css);
+@import url(../blocks/partners/__title/_color/partners__title_color_white.css);
+@import url(../blocks/partners/__text/partners__text.css);
+@import url(../blocks/partners/__logo-container/partners__logo-container.css);
+@import url(../blocks/partners/__logo-item/partners__logo-item.css);
+@import url(../blocks/partners/__img/partners__img.css);
