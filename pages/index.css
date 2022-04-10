@@ -17,5 +17,12 @@
 @import url(../blocks/newscards/__item/date/newscards__item-date.css);
 @import url(../blocks/newscards/__item/text/newscards__item-text.css);
 @import url(../blocks/newscards/__item/title/newscards__item-title.css);
-@import url(../blocks/intro/__wrapper/intro__wrapper.css);
-@import url(../blocks/intro/__wrapper/_point/intro__wrapper_point.css);
+@import url(../blocks/wrapper/wrapper.css);
+@import url(../blocks/wrapper/_point/wrapper_point.css);
+@import url(../blocks/team/team.css);
+@import url(../blocks/team/__title/team__title.css);
+@import url(../blocks/team/__list/team__list.css);
+@import url(../blocks/team/__list/_employee/team__list_employee.css);
+@import url(../blocks/team/__list/_employee/foto/team__list_employee-foto.css);
+@import url(../blocks/team/__list/_employee/info/team__list_employee-info.css);
+@import url(../blocks/team/__list/_employee/name/team__list_employee-name.css);

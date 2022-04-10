@@ -1,0 +1,12 @@
+.team__list_employee-name {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.0588372px;
+  color: #000d26;
+  margin: 0 auto 2px;
+  padding: 0;
+  max-width: 85px;
+}

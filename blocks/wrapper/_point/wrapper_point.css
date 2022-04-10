@@ -1,9 +1,9 @@
-.intro__wrapper_point {
+.wrapper_point {
   height: 4px;
   width: 4px;
   margin: 0 8px;
   color: grey;
 }
-.intro__wrapper_point:checked {
+.wrapper_point:checked {
   color: #fff;
 }
