@@ -1,4 +1,5 @@
 .team {
   max-width: 320px;
   background-color: #001337;
+  overflow: hidden;
 }
